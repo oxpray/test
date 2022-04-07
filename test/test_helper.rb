@@ -3,7 +3,7 @@ require File.expand_path(File.dirname(__FILE__) + "/../config/environment")
 require 'test_help'
 
 class Test::Unit::TestCase
-  CONSTANT = "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"
+  CONSTANT = "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"
   # Transactional fixtures accelerate your tests by wrapping each test method
   # in a transaction that's rolled back on completion.  This ensures that the
   # test database remains unchanged so your fixtures don't have to be reloaded
